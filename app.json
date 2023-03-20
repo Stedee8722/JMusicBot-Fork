@@ -7,13 +7,13 @@
   ],
   "env": {
     "TOKEN": {
-      "description": "Discord bot application token."
+      "description": "MTA3MzYzMDM1NzgwMDM2MTk4NA.GYcpIE.KI41Of3xyIbzeFx45KERqCnlXeqzRV0AehztgY"
     },
     "OWNER": {
-      "description": "Discord id of the bot owner."
+      "description": "514442674443517954"
     },
     "PREFIX": {
-      "description": "Bot prefix."
+      "description": "%"
     }
   }
 }
